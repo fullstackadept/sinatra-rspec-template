@@ -3,8 +3,7 @@
 This is a basic Sinatra app template, configured to use
 * Bundler
 * Rack
-* Rspec (todo)
-* Erb views (w/ layout template) and a custom 404
+* Rspec
 
 ## Usage
 Grab a copy from github, and change into the application's root folder
