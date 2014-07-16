@@ -1,6 +1,6 @@
 require 'sinatra/base'
 
-class SinatraApp < Sinatra::Base
+class ThisAppName < Sinatra::Base
 
   get '/' do
     erb :index
